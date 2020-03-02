@@ -1,5 +1,7 @@
 {
+	"compileOnSave": true,
 	"compilerOptions": {
+		
 		"module": "system",
 		"noImplicitAny": true,
 		"removeComments": true,
